@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Li Mengyao
+## 个人简介
+### 🎓 中南民族大学计算机类专业 大一学生
+### 🚀 2026春季Geek组 考核成员
 
-<!--
-**limengyao2026/limengyao2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 学习方向
+- 计算机基础 | GitHub | Markdown | C/C++
 
-Here are some ideas to get you started:
+## 🎯 考核方向
+- 前端
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 技能
+- 编程语言：C/C++
+- 工具：VS Code、Git、GitHub
+
+## 📫 联系方式
+- GitHub: https://github.com/limengyao2026
+- 邮箱: 2058825803@qq.com
+- 电话：19371764628
+
+## ✨ 学习目标
+- 完成Geek组阶段考核，掌握GitHub与Markdown核心技能
+- 持续学习计算机基础，为后续专业学习打下基础
+- 不断提高自己，提升技术，深入学习前端知识
+
+## 🎨 兴趣爱好
+- 阅读：中外名著、小说，休闲时间的一大热爱
+- 舞蹈、古筝：从小就有比较高的兴趣
+
+## 🎈 小彩蛋
+ - 👩 一名正在追赶大家步伐的计算机学生
+ - 🚀 持续学习，持续输出，持续进步
+ - 💡 有不懂的地方会请教大家，也感谢大家的指导
